@@ -18,8 +18,6 @@ Reach out to the community via the discussions section for best practices and re
 
 This Project is contributed by :
 
-Savya Sanchi Sharma
-
 Sourav Maity 
 
-Sanjay K
+
